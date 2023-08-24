@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281368982939",
+    "project_id": "mentor-quest",
+    "storage_bucket": "mentor-quest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281368982939:android:813ae9530dae1f4c505d3e",
+        "android_client_info": {
+          "package_name": "com.example.consultation_gp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281368982939-l25244isdha6j45qpohk30ci9ff3t7ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCavKSIiMXUaMedhfKM20dR8YMpO8VlhXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281368982939-l25244isdha6j45qpohk30ci9ff3t7ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
